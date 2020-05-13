@@ -1,2 +1,2 @@
 # scapatech
-Scapa documentatiob
+Scapa documentation
